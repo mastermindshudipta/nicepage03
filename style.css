@@ -1,0 +1,732 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*first project start*/
+.default{
+    background-color: #FFFFFF;
+	width: 100%;
+}
+.logo {
+	position: relative;
+	top: 43px;
+	margin-left: 52px;
+}
+.dolor{
+    background-image: url("./image/tomato.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    top: 60px;
+    height: 683px;
+}
+.home {
+	position: relative;
+	top: 305px;
+	margin-left: 40px;
+}
+.home h1{
+    font-size: 6rem;
+    text-transform: uppercase;color: #FFFFFF;
+    text-shadow: 0 0 8px rgba(0,0,0,1);
+    font-family: "Playfair Display", serif;
+}
+.home p{
+    color: #FFFFFF;
+    line-height: 29px;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+.home a{
+    text-decoration: none;
+    color: #fe7606;
+    text-transform: capitalize;
+}
+
+.learn a {
+	line-height: 84px;
+	letter-spacing: 2px;
+    font-family: 'Source Sans Pro',sans-serif;
+    border-bottom: 2px solid #fe7606;
+}
+/*first project end*/
+/*second project start*/
+.jpg{
+    background-color: #FFFFFF;
+	width: 100%;
+    height: 670px;
+}
+.menu {
+	position: absolute;
+	width: 775px;
+	background-color: #F1C50E;
+	top: 791px;
+	height: 224px;
+}
+.menu h1 {
+	position: relative;
+	margin-left: 500px;
+	font-size: 100px;
+	top: 39px;
+}
+.vg img {
+	width: 32%;
+	height: 478px;
+	position: relative;
+	top: 64px;
+	margin-left: 59px;
+}
+.aute {
+	position: relative;
+	margin-left: 480px;
+	top: -171px;
+	font-size: 16px;
+	line-height: 30px;
+	font-weight: bold;
+    font-family: 'open sans',sans-serif;
+}
+.aute p{
+    width: 321px;
+}
+.est a{
+    text-decoration: none;
+    line-height: 75px;
+    color: #fe7606;
+    font-family: 'open sans',sans-serif;
+}
+.sunt {
+	background-color: black;
+	position: relative;
+	top: -181px;
+	width: 214px;
+	margin-left: 479px;
+	height: 54px;
+}
+.sint {
+	width: 300px;
+	background-color: #fe7606;
+	position: relative;
+	margin-left: 963px;
+	top: -571px;
+	height: 147px;
+}
+.esse img {
+	width: 30%;
+	position: relative;
+	top: -777px;
+	height: 458px;
+	margin-left: 833px;
+}
+/*second project end*/
+/*third project start*/
+.sppon{
+    background-color: #FFFFFF;
+    height: 783px;
+}
+.table{
+    background-image: url("./image/dall.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 828px;
+}
+.cook {
+	position: relative;
+	top: 170px;
+	margin-left: 252px;
+}
+.cook h1{
+    color: #fe7606;
+    font-size: 5rem;
+    font-weight: normal;
+}
+.cook p {
+	color: white;
+	margin-left: 68px;
+	line-height: 28px;
+    font-style: italic;
+    font-size: 17px;
+    font-family: 'open sans',sans-serif;
+}
+.cook span{
+    margin-left: 80px;
+}
+.from {
+	color: #FFFFFF;
+	position: relative;
+	top: 195px;
+	margin-left: 463px;
+	text-transform: uppercase;
+	word-spacing: -2px;
+	letter-spacing: 2px;
+    font-family: 'open sans',sans-serif;
+}
+.from a{
+    text-decoration: none;
+    color: #fe7606;
+}
+.base {
+	width: 342px;
+	height: 350px;
+	background-color: white;
+	position: relative;
+	top: 238px;
+	margin-left: 54px;
+	text-align: center;
+}
+.one {
+    font-size: 6rem;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: -122px; 
+}
+.meal h1 {
+	position: relative;
+	top: 30px;
+	left: -49px;
+	font-size: 38px;
+}
+.meal p {
+	position: relative;
+	top: 59px;
+	left: 23px;
+	width: 299px;
+	line-height: 22px;
+	font-family: 'open sans',sans-serif;
+}
+.meal span{
+    position: relative;
+    left: -70px;
+}
+.pop a {
+	text-decoration: none;
+	position: relative;
+	top: 27px;
+	left: -83px;
+	font-size: 21px;
+    text-transform: uppercase;
+    color: #fe7606;
+    border-bottom: 2px solid #F1C50E;
+    font-family: 'open sans',sans-serif;
+}
+.Knife {
+	width: 342px;
+	height: 350px;
+	background-color: #0009;
+	position: relative;
+	top: -112px;
+	margin-left: 456px;
+    color: #FFFFFF;
+}
+.two{
+    font-size: 6rem;
+    color: #fe7606;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+.skill h1 {
+	position: relative;
+	top: 30px;
+	left: 37px;
+	font-size: 38px;
+}
+.skill p {
+	position: relative;
+	top: 59px;
+	left: 33px;
+	width: 309px;
+	line-height: 22px;
+    font-family: 'open sans',sans-serif;
+}
+.null a {
+	text-decoration: none;
+	position: relative;
+	top: 82px;
+	left: 30px;
+	font-size: 21px;
+    text-transform: uppercase;
+    color: #fe7606;
+    border-bottom: 2px solid #F1C50E;
+    font-family: 'open sans',sans-serif;
+}
+.Chicken {
+	width: 342px;
+	height: 350px;
+	background-color: #fe7606;
+	position: relative;
+	top: -462px;
+	margin-left: 845px;
+}
+.cill {
+    font-size: 6rem;
+    color: #FFFFFF;
+    position: relative;
+    top: 40px;
+    left: 34px; 
+}
+.three h1 {
+	position: relative;
+	top: 30px;
+	left: 34px;
+	font-size: 38px;
+    color: #FFFFFF;
+}
+.three p {
+	position: relative;
+	top: 59px;
+	left: 37px;
+	width: 299px;
+	line-height: 22px;
+    color: #FFFFFF;
+	font-family: 'open sans',sans-serif;
+}
+.span a {
+	text-decoration: none;
+	position: relative;
+	top: 27px;
+	left: -5px;
+	font-size: 21px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    font-family: 'open sans',sans-serif;
+}
+/*third project end*/
+/*four project start*/
+.bird{
+    height: 920px;
+    background-color: #FFFFFF;
+}
+.food h1 {
+	position: relative;
+	text-align: center;
+	top: -397px;
+	font-size: 5rem;
+}
+.asian{
+    display: flex;
+}
+.red {
+	width: 862px;
+	height: 154px;
+	background-color: #FFFFFF;
+	position: relative;
+	top: 45px;
+	margin-left: 1px;
+}
+.blue {
+	width: 626px;
+	height: 554px;
+	background-color: #F1C50E;
+	position: relative;
+	top: 45px;
+	margin-left: -226px;
+}
+.While p {
+	width: 260px;
+	position: relative;
+	top: -360px;
+	margin-left: 336px;
+	line-height: 22px;
+	font-size: 20px;
+}
+.nature p{
+    width: 260px;
+    font-size: 20px;
+    line-height: 22px;
+    position: relative;
+    top: -465px;
+    margin-left: 680px;
+}
+.glass{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: -397px;
+}
+.glass img{
+    width: 22%;
+}
+.glass .imageone {
+	height: 389px;
+	width: 369px;
+	margin-left: 74px;
+}
+.glass .imagetwo {
+	width: 351px;
+	height: 387px;
+}
+.glass .imagethree {
+	width: 351px;
+	height: 387px;
+}
+.glass .imagethree:hover{
+	opacity: 0.8;
+	transition: all 0.3s;
+}
+.glass .imageone:hover{
+	opacity: 0.8;
+	transition: all 0.3s;
+}
+.glass .imagetwo:hover{
+	opacity: 0.8;
+	transition: all 0.3s;
+}
+/*four project end*/
+/*five project start*/
+.delta{
+	background-color: #FFFFFF;
+	height: 500px;
+}
+.meat {
+	display: flex;
+	gap: 127px;
+}
+.meat img {
+	width: 45%;
+	height: 480px;
+}
+.and {
+	width: 210px;
+	background-color: #F1C50E;
+	position: relative;
+	top: -480px;
+	margin-left: 521px;
+	height: 480px;
+}
+.and h1 {
+	position: relative;
+	top: 56px;
+	left: 45px;
+	font-size: 53px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'open sans',sans-serif;
+}
+/*five project end
+
+/*six project start*/
+.full{
+	background-color: #FFFFFF;
+	height: 393px;
+}
+.funtion {
+	width: 385px;
+	background-color: #fe7606;
+	position: relative;
+	top: -20px;
+	height: 247px;
+}
+.carrot {
+	display: flex;
+	gap: 35px;
+	position: relative;
+	top: -208px;
+	margin-left: 56px;
+}
+.carrot img{
+	width: 23%;
+	height: 293px;
+}
+.farm {
+	position: relative;
+	top: -437px;
+	margin-left: 707px;
+}
+.farm h1{
+	font-size: 37px;
+	color: #fe7606;
+	position: relative;
+	top: -20px;
+}
+.farm p{
+	width: 328px;
+	line-height: 21px;
+	font-family: 'open sans',sans-serif;
+}
+.justo a {
+	line-height: 62px;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #fe7606;
+	letter-spacing: 2px;
+	font-family: 'open sans',sans-serif;
+	border-bottom: 2px solid #fe7606;
+}
+/*six project end*/
+/*seven project start*/
+.fresh{
+	background-color: #FFFFFF;
+	height: 785px;
+}
+.every{
+	background-image: url("./image/bugger.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 785px;
+}
+.theory {
+	position: relative;
+	top: 462px;
+	margin-left: 78px;
+	color: #FFFFFF;
+}
+.theory h1{
+	position: relative;
+	top: -14px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	font-size: 22px;
+}
+.theory p{
+	width: 510px;
+	line-height: 27px;
+	font-family: 'open sans',sans-serif;
+}
+.theory a{
+	text-decoration: none;
+	color: #F1C50E;
+}
+.down{
+	display: flex;
+	margin-left: 672px;
+	gap: 135px;
+}
+.down img {
+	width: 12%;
+	position: relative;
+	top: 347px;
+}
+.our {
+	display: flex;
+	margin-left: 662px;
+	text-transform: uppercase;
+	font-size: 12px;
+	gap: 118px;
+}
+.our h1 {
+	position: relative;
+	top: 363px;
+	color: #FFFFFF;
+	font-family: 'Times New Roman', Times, serif;
+}
+.drink {
+	width: 100%;
+	background-color: #00000057;
+	position: relative;
+	top: 388px;
+	height: 200px;
+	color: #FFFFFF;
+}
+.line {
+	display: flex;
+	margin-left: 129px;
+	position: relative;
+	top: 72px;
+	gap: 314px;
+	font-size: 13px;
+	font-family: 'open sans',sans-serif;
+}
+.line h1{
+	font-weight: normal;
+}
+.samle{
+	display: flex;
+	gap: 274px;
+	margin-left: 129px;
+	position: relative;
+	top: 86px;
+}
+hr {
+	width: 1140px;
+	position: relative;
+	top: 114px;
+	margin-left: 57px;
+}
+.foot p {
+	position: relative;
+	top: 129px;
+	text-align: center;
+}
+/*seven project end*/
+/*eight project start*/
+
+.age {
+	background-color: #00000080;
+	justify-content: center;
+	height: 82px;
+	color: #FFFFFF;
+}
+.nut{
+	display: flex;
+	gap: 5px;
+	justify-content: center;
+	position: relative;
+	top: 42px;
+}
+.nut a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.nut a:hover{
+	text-decoration: underline;
+}
+/*eight project end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
